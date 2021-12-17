@@ -1,0 +1,1 @@
+π sid ( σ age > 20 sailors) - π sid ( ( σ color = 'red' boats) ⨝ reserves ⨝ sailors)

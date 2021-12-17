@@ -1,0 +1,9 @@
+π sname (
+π sid (
+(
+π bid σ color = 'red' boats
+)
+⨝ reserves
+)
+⨝ sailors
+)

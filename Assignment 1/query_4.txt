@@ -1,0 +1,5 @@
+π res.sname
+σ (res.sid = res2.sid) ∧ (res.bid ≠ res2.bid)
+
+
+(ρ res (π sid, sname, bid (sailors ⨝ reserves)) x ρ res2 (π sid, sname, bid (sailors ⨝ reserves)))

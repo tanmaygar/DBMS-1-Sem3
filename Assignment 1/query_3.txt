@@ -1,0 +1,1 @@
+π sname (((π sid ( ( σ color= 'green' boats) ⨝ reserves)) ∩ (π sid ( ( σ color= 'red' boats) ⨝ reserves))) ⨝ sailors)
